@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Kiss Roland
+osztály: 10C
